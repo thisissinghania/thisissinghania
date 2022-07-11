@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pawansinghania001@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thisissinghania/](https://www.linkedin.com/in/thisissinghania/)
+- 📄 Know about my experiences [www.linkedin.com/in/thisissinghania](https://www.linkedin.com/in/thisissinghania/)
 
 - ⚡ Fun fact **I am Funny**
 
