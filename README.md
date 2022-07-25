@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/thisissinghania" target="blank"><img src="https://img.shields.io/twitter/follow/thisissinghania?logo=twitter&style=for-the-badge" alt="thisissinghania" /></a> </p>
 
 
-- 🔭 I’m currently working on **Two Ocean Mining Company Project**
+- 🔭 I’m currently working on **Self Improvement**
 
 - 🌱 I’m currently learning **DevOps and Backend**
 
