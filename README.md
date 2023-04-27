@@ -6,6 +6,9 @@
 <p><img width="350" align="right" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="dev"></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissinghania&label=Profile%20views&color=0e75b6&style=flat" alt="thisissinghania" /> </p>
+<p align="left"> <a href="https://twitter.com/thisissinghania" target="blank"><img src="https://img.shields.io/twitter/follow/thisissinghania?logo=twitter&style=for-the-badge" alt="thisissinghania" /></a> </p>
+
 - 🔭 I’m currently working on **Self Improvement**
 
 - 🌱 I’m currently learning **DevOps and Backend**
@@ -19,8 +22,6 @@
 - ⚡ Fun fact **People say, I am Funny**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissinghania&label=Profile%20views&color=0e75b6&style=flat" alt="thisissinghania" /> </p>
-<p align="left"> <a href="https://twitter.com/thisissinghania" target="blank"><img src="https://img.shields.io/twitter/follow/thisissinghania?logo=twitter&style=for-the-badge" alt="thisissinghania" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
