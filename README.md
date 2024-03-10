@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/thisissinghania](https://www.linkedin.com/in/thisissinghania/)
 
-- ⚡ Fun fact **People say, I am Funny**
-
 
 
 <h3 align="left">Connect with me:</h3>
