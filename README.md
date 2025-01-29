@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **Self Improvement**
 
-- 👯 I’m looking to collaborate on **Linux**
-
 - 📫 How to reach me **pawansinghania001@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/thisissinghania](https://www.linkedin.com/in/thisissinghania/)
