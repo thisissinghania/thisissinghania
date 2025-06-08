@@ -1,7 +1,7 @@
 <p><img width="100%" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif" alt="dev"></p>
 
 <h1 align="center">Hi 👋, I'm Pawan</h1>
-<h3 align="center">A Passionate Software Engineer from INDIA</h3>
+<h3 align="center">A Passionate 💻 Software Engineer | 🎨 UI/UX & Product Designer from INDIA</h3>
 
 <p><img width="350" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="dev"></p>
 
