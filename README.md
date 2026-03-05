@@ -14,11 +14,3 @@
 - 📫 How to reach me **pawansinghania001@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/thisissinghania](https://www.linkedin.com/in/thisissinghania/)
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisissinghania" alt="thisissinghania" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissinghania&show_icons=true&locale=en&layout=compact" alt="thisissinghania" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissinghania&show_icons=true&locale=en" alt="thisissinghania" /></p>
-
