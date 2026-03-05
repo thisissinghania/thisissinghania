@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">A Passionate 💻 Software Engineer | 🎨 UI/UX & Product Designer from INDIA</h3>
 
-<p><img width="350" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="dev"></p>
+<p><img width="254" align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="dev"></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissinghania&label=Profile%20views&color=0e75b6&style=flat" alt="thisissinghania" /> </p>
